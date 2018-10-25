@@ -1,0 +1,8 @@
+celery==4.2.1
+tornado==4.4.3
+oss2==2.4.0
+youtube_dl==2018.9.10
+requests==2.18.4
+lxml==4.2.3
+redis==2.10.6
+pymysql==0.8.1
